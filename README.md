@@ -85,9 +85,4 @@ This PASTA threat modeling tool is built on https://github.com/mrwadams/stride-g
 
 ---
 
-### Badges (Optional)
-
-If you'd like to add more project badges (e.g., coverage, downloads, etc.), you can explore [shields.io](https://shields.io/).
-
----
 
