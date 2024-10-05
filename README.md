@@ -54,7 +54,7 @@ Welcome to the **PASTA Threat Modeling Tool** — a Python-based threat modeling
 
 4. **Run the tool:**
    ```bash
-   python pasta_gpt.py
+   streamlit run pasta_gpt.py
    ```
 
 ## Usage
