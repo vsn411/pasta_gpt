@@ -11,7 +11,6 @@ Welcome to the **PASTA Threat Modeling Tool** — a Python-based threat modeling
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
 
