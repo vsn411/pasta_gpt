@@ -1,6 +1,10 @@
 
 # PASTA Threat Modeling Tool
 
+![PASTA Logo](./logo.png)  <!-- Example of how to include an image -->
+
+
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/Pasta-Threat-Modeling-Tool)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/yourusername/Pasta-Threat-Modeling-Tool)
 
