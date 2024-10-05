@@ -1,7 +1,7 @@
 
 # PASTA Threat Modeling Tool
 
-![PASTA Logo](./logo.png)  <!-- Example of how to include an image -->
+![PASTA Logo](./logo_ai.jpg)  <!-- Example of how to include an image -->
 
 
 
