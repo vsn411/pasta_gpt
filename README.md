@@ -1,8 +1,7 @@
 
 # PASTA Threat Modeling Tool
 
-
-<img src="./images/logo_ai.jpg" alt="PASTA Logo" width="200"/>  <!-- Adjust width as needed -->
+![PASTA Logo](./images/logo_ai.jpg)  <!-- Example of how to include an image -->
 
 
 
